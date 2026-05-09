@@ -1,7 +1,7 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
 import './styles.css'
-import Component from 'D:/MCP/mcp-widget-gallery/resources/react-showcase/widget.tsx'
+import Component from 'D:/Generative-UI-Global-Hackathon-Agentic-Interfaces/resources/react-showcase/widget.tsx'
 
 const container = document.getElementById('widget-root')
 if (container && Component) {
